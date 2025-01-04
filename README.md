@@ -1,2 +1,2 @@
 # reticulumwiki
-Go to http://reticulum.rg.gd
+Go to http://reticulum.rf.gd
