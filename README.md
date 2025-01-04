@@ -1,2 +1,2 @@
 # reticulumwiki
-A forward page to the reticulum wiki.
+Go to http://reticulum.rg.gd
